@@ -121,3 +121,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+### Join our Discord Server !
+
+You can join our discord server [here](https://discord.com]
